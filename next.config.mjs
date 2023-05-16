@@ -13,7 +13,7 @@ const config = {
   images: {
     domains: [
       "oaidalleapiprodscus.blob.core.windows.net",
-      "icon-generator-course.s3.amazonaws.com",
+      "vector-generator.s3.amazonaws.com",
     ],
   },
   /**
